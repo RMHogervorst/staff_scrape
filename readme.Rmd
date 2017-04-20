@@ -2,7 +2,7 @@
 title: "Staff scraping"
 output: github_document
 ---
-[![Last-changedate](https://img.shields.io/badge/last%20change-2017--04--20-yellowgreen.svg)](/commits/master)[![fork this repo](http://githubbadges.com/fork.svg?user=RMHogervorst&repo=staff_scraper&style=flat)](https://github.com/RMHogervorst/staff_scrape/fork)[![star this repo](http://githubbadges.com/star.svg?user=RMHogervorst&repo=staff_scraper&style=flat)](https://github.com/RMHogervorst/staff_scrape)[![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/)[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2017--04--20-yellowgreen.svg)](/commits/master) [![fork this repo](http://githubbadges.com/fork.svg?user=RMHogervorst&repo=staff_scrape&style=flat)](https://github.com/RMHogervorst/staff_scrape/fork) [![star this repo](http://githubbadges.com/star.svg?user=RMHogervorst&repo=staff_scrape&style=flat)](https://github.com/RMHogervorst/staff_scrape) [![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/)[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
 
 
 This describes the basic way to scrape the staff of our university.
