@@ -1,0 +1,17 @@
+---
+title: "Staff scraping"
+output: github_document
+---
+
+This discribes the basic way to scrape the staff of our university.
+
+To be clear: Scraping is not always allowed and can be a breach of
+contract of the terms of service of a website. Some people argue
+that it is just another page view. I take no side here.
+
+I use this to scrape 34 pages maximum so in a way my infraction is minor.
+Judging by the spam emails I recieve on a weekly basis some of those
+spammers do the same thing. anyway..
+
+Back to the goal: I wanted to make a simple data set of my direct colleagues. And used the local 
+
