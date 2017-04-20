@@ -1,4 +1,12 @@
 Staff scraping
 ================
 
-This discribes the basic way to scrape the staff of university.
+[![Last-changedate](https://img.shields.io/badge/last%20change-2017--04--20-yellowgreen.svg)](/commits/master)[![fork this repo](http://githubbadges.com/fork.svg?user=RMHogervorst&repo=staff_scraper&style=flat)](https://github.com/RMHogervorst/staff_scrape/fork)[![star this repo](http://githubbadges.com/star.svg?user=RMHogervorst&repo=staff_scraper&style=flat)](https://github.com/RMHogervorst/staff_scrape)[![Licence](https://img.shields.io/github/license/mashape/apistatus.svg)](http://choosealicense.com/licenses/mit/)[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+
+This describes the basic way to scrape the staff of our university.
+
+To be clear: Scraping is not always allowed and can be a breach of contract of the terms of service of a website. Some people argue that it is just another page view. I take no side here.
+
+I use this to scrape 34 pages maximum so in a way my infraction is minor. Judging by the spam emails I recieve on a weekly basis some of those spammers do the same thing. anyway..
+
+Back to the goal: I wanted to make a simple data set of my direct colleagues. You will find a scraping instruction in the R folder.
